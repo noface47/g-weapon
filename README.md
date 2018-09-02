@@ -14,6 +14,6 @@ cd g-weapon
 
 python gweapon.py
 
-*in distro Linux,same like Command Termux but Different,Go search Google to Commande
+*in distro Linux,same like Command Termux but Different,Go search Google to Commando
 and commando same is : cd g-weapon
                        python gweapon.py or python2 gweapon.py or like your distro python 
