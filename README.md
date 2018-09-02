@@ -1,6 +1,6 @@
 Dos Spammer Gmail
 
-in Termux :
+*in Termux :
 
 apt install python
 
